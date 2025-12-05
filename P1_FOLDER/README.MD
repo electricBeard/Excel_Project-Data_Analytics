@@ -70,19 +70,19 @@ IF(
 - 🔢 Formula Purpose: This formula populates the table below, which gives us a list of unique job schedule types.  
 
 🍽️ Background Table
-~~table~~
+![bg table job type](P1_Images/1_Salary_Dashboard_Screenshot2.png)  
 
 📉 Dashboard Implementation:
-~~table~~
+![dashboard job type](P1_Images/1_Salary_Dashboard_Type.png)
 
 ### ❎ Data Validation  
-🔍 Filtered List  
+####🔍 Filtered List  
 - 🔒 Enhanced Data Validation: Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
     - 🎯 User input is restricted to predefined, validated schedule types
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced  
 
-~~gif~~  
+![Data Validation Dropdown Gif](P1_Images/1_Salary_Dashboard_Data_Validation.gif)  
 
 ## Conclusion
 I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from Luke Barousse's Excel course, this dashboard allows users to make informed decisions about their career paths. They can explore the functionalities of the dashboard to better understand how location and job type influence salaries.
