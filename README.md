@@ -1,2 +1,2 @@
 # Excel_Project-Data_Analytics
-Demonstration of my Exceskills 
+Demonstration of my Excel skills 
