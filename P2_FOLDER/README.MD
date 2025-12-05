@@ -41,10 +41,14 @@ It includeds detailed information on:
   ![Applied Steps in job skills](P2_Images/2_Project_Analysis_Screenshot2.png)  
 
 #### 🔗 Load
-* Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis. 
+* Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.  
+
   * 📊 data_jobs_all  
+
     ![power query editor large](P2_Images/2_Project_Analysis_Screenshot3.png)  
-  * 🛠️ data_job_skills
+
+  * 🛠️ data_job_skills  
+
     ![power query editor 2 columns](P2_Images/2_Project_Analysis_Screenshot4.png)  
 
 ### 📊 Analysis  
