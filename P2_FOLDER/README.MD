@@ -124,6 +124,8 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 
 ## Conclusion  
 As a data enthusiast and former job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies.  
+
+
 I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.
 
 
