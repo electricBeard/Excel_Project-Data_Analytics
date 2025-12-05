@@ -40,7 +40,7 @@ The dataset used for this project contains real-world data science job informati
 - 💡 Insights Gained: Enables quick grasp of global salary disparities and highlights high/low salary regions.  
 
 ### 🧮 Formulas and Functions  
-💰 Median Salary by Job Titles  
+####💰 Median Salary by Job Titles  
 ```
 =MEDIAN(
 IF(
@@ -59,11 +59,12 @@ IF(
 - 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified.  
 
 🍽️ Background Table  
-~~table~~  
-📉 Dashboard Implementation  
-~~table~~  
+![bg table of median salary](P1_Images/1_Salary_Dashboard_Screenshot1.png)  
 
-⏰ Count of Job Schedule Type  
+📉 Dashboard Implementation  
+![dashboard median salary](P1_Images/1_Salary_Dashboard_Job_Title.png)  
+
+#### ⏰ Count of Job Schedule Type  
 `=FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))`
 - 🔍 Unique List Generation: This Excel formula below employs the FILTER() function to exclude entries containing "and" or commas, and omit zero values.
 - 🔢 Formula Purpose: This formula populates the table below, which gives us a list of unique job schedule types.  
