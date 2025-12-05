@@ -3,7 +3,7 @@
 
 ## Introduction
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
-The dataset comes from Luke Barousse's tutorial which provides a foundation in analyzing data using Excel. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+The dataset comes from [Luke Barousse's](https://youtu.be/pCJ15nGFgVg?si=zR32NL3Z2nuVAO6o) tutorial which provides a foundation in analyzing data using Excel. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File  
 My final dashboard is in [P1_Salary_Dashboard_GREG.xlsx](P1_FOLDER/P1_Salary_Dashboard_GREG.xlsx)
